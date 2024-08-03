@@ -11,6 +11,58 @@ Event Explorer operates with a user-centric approach, guiding users through a st
 With a focus on efficiency, accuracy, and professionalism, Event Explorer delivers concise and reliable information. It is designed to be a helpful resource for professionals and enthusiasts alike, offering a friendly yet informative tone. By streamlining the event discovery process, this custom GPT helps users stay informed about important industry events that can enhance their knowledge, network, and business opportunities.
 
 #
+### Aerospace Industry 2024
+
+January 2024
+- International Conference on Sustainable Aviation: February 5-6, Berlin, Germany
+- International Conference on Sustainable Aviation: March 13-14, New York, USA
+- 35th Annual Women in Aviation International Conference: March 18-19, Orlando, Florida, USA
+- International Conference on Aviation Management and Flight: March 21-23, Singapore
+
+April 2024
+- Passenger Terminal Expo & Conference: April 11-12, Frankfurt, Germany
+- Aerospace Tech Week Europe: April 16-18, Munich, Germany
+- World Aviation Training Summit: April 17-18, Orlando, Florida, USA
+- International Conference on Aviation and Air Transportation: April 29 - May 2, Amsterdam, Netherlands
+
+May 2024
+- Aviation Festival Americas 2024: May 13-14, Miami, FL, USA
+- European Business Aviation Convention & Exhibition (EBACE): May 17-18, Geneva, Switzerland
+- Business of Airports Conference: May 28-30, Miami, FL, USA
+
+June 2024
+- CBAA’s 2024 Convention and Exhibition: June 10-12, Saint-Hubert, Quebec, Canada
+- International Aviation Safety Conference: June 11-13, Washington, D.C., USA
+- Paris Air Show: June 16-22, Paris, France
+- International Conference on Aviation and Air Transportation: June 21-22, Venice, Italy
+- SMART Airports & Regions 2024 Conference & Exhibition: June 22-23, Denver, Colorado, USA
+
+July 2024
+- International Conference on Civil and Recreational Aviation: July 10-12, London, UK
+- AIAA Aviation and Aeronautics Forum and Exposition: July 26-27, Las Vegas, Nevada, USA
+- Advanced Air Mobility Symposium (AAM 2024): July 29 - August 2, Montreal, Canada
+
+August 2024
+- CAPA Airline Leader Summit LATAM: August 22-23, Port of Spain, Trinidad and Tobago
+
+September 2024
+- Air Charter Expo: September 9-12, London, UK
+- Global Aerospace Summit: September 10-11, Washington, D.C., USA
+- World Aviation Festival: October 8-10, Amsterdam, Netherlands
+
+October 2024
+- MRO Europe: October 8-10, Barcelona, Spain
+- Focus Summit+ 2024: October 22-24, Istanbul, Turkey
+- NBAA Business Aviation Convention & Exhibition (NBAA-BACE): October 22-24, Las Vegas, NV, USA
+
+November 2024
+- CAPA Airline Leader Summit & Sustainability Awards Asia: November 5-6, Hong Kong
+- Dubai Airshow: November 17-21, Dubai, UAE
+
+December 2024
+- International Conference on Mechanical and Aerospace Engineering: December 28-29, Mississauga, Canada
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
