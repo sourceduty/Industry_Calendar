@@ -102,6 +102,53 @@ Meetups:
 
 <br>
 </details>
+<details><summary>Computer Industry 2024</summary>
+<br>
+
+January 2024
+- Integrated Systems Europe (ISE): January 30 - February 2, Barcelona, Spain. Focuses on audiovisual and systems integration technology.
+
+February 2024
+- Mobile World Congress (MWC): February 26-29, Barcelona, Spain. A major event for the mobile and telecommunications industry.
+
+March 2024
+- Nvidia GTC: March 17-21, San Jose, CA. A key event for AI and deep learning professionals.
+- SXSW (South by Southwest): March 8-16, Austin, TX. A unique mix of technology, music, and film.
+
+April 2024
+- Google Cloud Next: April 9-11, Las Vegas, NV. A major event focusing on cloud technologies.
+- RSA Conference: April 22-25, San Francisco, CA. One of the largest cybersecurity conferences globally.
+
+May 2024
+- AI and Big Data Expo North America: May 5-6, Santa Clara, CA. Covers enterprise AI and big data technologies.
+- GITEX Global: May 6-10, Dubai, UAE. A massive technology expo covering a wide range of IT sectors.
+
+June 2024
+- Apple WWDC: June 10-14, Online & San Francisco, CA. Focused on software developers and Apple’s latest technologies.
+- London Tech Week: June 10-14, London, UK. A week-long festival of tech innovation.
+
+July 2024
+- SEMICON West: July 9-11, San Francisco, CA. The world’s largest semiconductor event.
+
+August 2024
+- International Internet of Things Exhibition: August 28-30, Shenzhen, China. Focuses on IoT innovations and applications.
+
+September 2024
+- IFA Berlin: September 6-10, Berlin, Germany. One of the world’s largest consumer electronics trade shows.
+- EmTech MIT: September 30-October 1, Cambridge, MA. MIT Technology Review's premier conference on emerging technologies.
+
+October 2024
+- Gartner IT Symposium/Xpo: October 21-24, Orlando, FL. A key event for CIOs and IT executives.
+- AI DevWorld: October 24-26, Santa Clara, CA. A leading AI developer conference.
+
+November 2024
+- Web Summit: November 4-7, Lisbon, Portugal. One of the largest technology conferences globally.
+
+December 2024
+- Gartner Identity & Access Management Summit: December 9-11, Grapevine, TX. Focused on cybersecurity and identity management.
+
+<br>
+</details>
 
 #
 ### Related Links
