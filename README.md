@@ -156,6 +156,8 @@ December 2024
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Industry Simulator](https://github.com/sourceduty/Industry_Simulator)
+<br>
+[Industry Influencer](https://github.com/sourceduty/Industry_Influencer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
