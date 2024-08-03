@@ -11,7 +11,10 @@ Event Explorer operates with a user-centric approach, guiding users through a st
 With a focus on efficiency, accuracy, and professionalism, Event Explorer delivers concise and reliable information. It is designed to be a helpful resource for professionals and enthusiasts alike, offering a friendly yet informative tone. By streamlining the event discovery process, this custom GPT helps users stay informed about important industry events that can enhance their knowledge, network, and business opportunities.
 
 #
-### Aerospace Industry 2024
+### Exmple Usage
+
+<details><summary>Aerospace Industry 2024</summary>
+<br>
 
 January 2024
 - International Conference on Sustainable Aviation: February 5-6, Berlin, Germany
@@ -61,6 +64,44 @@ November 2024
 
 December 2024
 - International Conference on Mechanical and Aerospace Engineering: December 28-29, Mississauga, Canada
+
+<br>
+</details>
+<details><summary>Open Source Industry 2024</summary>
+<br>
+
+Upcoming Open Source Events:
+
+Conferences and Summits:
+1. Open Source Summit Japan - October 28-29, 2024, Tokyo, Japan
+   - A premier event for developers and technologists to collaborate and learn about the latest open-source technologies.
+
+2. Open Source Summit EU 2024 - September 16-18, 2024
+   - A significant event bringing together the open-source community to discuss challenges, share insights, and foster innovation.
+
+3. GitHub Universe 2024 - October 29-30, 2024, San Francisco, CA (Hybrid)
+   - A large gathering for developers to explore the latest in AI, security, and developer experience with GitHub.
+
+Hackathons:
+1. Princeton Open Hackathon 2024 - June 4-14, 2024 (Hybrid)
+   - Designed for computational scientists and researchers to optimize applications with expert guidance.
+
+2. Hack Kosice - April 6-7, 2024, Kosice, Slovakia
+   - A vibrant hackathon attracting participants from across Europe to work on innovative projects.
+
+3. Los Altos Hacks VIII - April 6-7, 2024, Sunnyvale, CA
+   - A student-run hackathon aimed at high school and college students, providing tools, mentorship, and workshops.
+
+Workshops and Webinars:
+- WasmCon 2024 - November 11-12, 2024, Salt Lake City, UT
+  - A focused event for developers interested in WebAssembly, offering workshops, sessions, and networking opportunities.
+
+Meetups:
+- Nerdearla 2024 - September 24-28, 2024 (Hybrid)
+  - Offers a variety of talks, workshops, and live discussions, providing a platform for networking and learning in a community-oriented environment.
+
+<br>
+</details>
 
 #
 ### Related Links
