@@ -11,7 +11,7 @@ Event Explorer operates with a user-centric approach, guiding users through a st
 With a focus on efficiency, accuracy, and professionalism, Event Explorer delivers concise and reliable information. It is designed to be a helpful resource for professionals and enthusiasts alike, offering a friendly yet informative tone. By streamlining the event discovery process, this custom GPT helps users stay informed about important industry events that can enhance their knowledge, network, and business opportunities.
 
 #
-### Exmple Usage
+### Example Usage
 
 <details><summary>Aerospace Industry 2024</summary>
 <br>
